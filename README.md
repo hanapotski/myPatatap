@@ -1,1 +1,2 @@
-# myPatatap - https://hanapotski.github.io/myPatatap/
+# My Patatap
+Project for the Web Development Bootcamp
